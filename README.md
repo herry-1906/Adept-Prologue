@@ -202,4 +202,4 @@ This repository serves as the official landing page for Adapt Prologue. The soft
 **Get the most recent version of Adapt Prologue today!**
 
 ---
-**Last updated:** 2026-11-08 20:15:21 UTC
+**Last updated:** 2026-11-09 00:37:00 UTC
